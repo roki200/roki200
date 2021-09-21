@@ -1,4 +1,4 @@
-#Версия модуля "Rp команды" от @roki_crazy
+#Версия модуля "Rp команды" для FTG юзербот от @roki_crazy
 from .. import loader, utils
 
 @loader.tds
