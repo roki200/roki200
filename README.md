@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @roki200
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning in college, as a programmer
+
 
 <!---
 roki200/roki200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
