@@ -3,5 +3,5 @@
 <h3 align="center">I am a 16-y.o student, programmer and music lover from Tajikistan </h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokid200)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roki200)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roki200)](https://github.com/ashutosh00710/github-readme-activity-graph)
