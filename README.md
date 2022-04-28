@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/roki_bio" target="_blank">Roki</a> 
+<h1 align="center">Hi there, I'm <a href="https://rokicrazy.github.io/roki/" target="_blank">Roki</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a 16-y.o student, programmer and music lover from Tajikistan </h3>
 
