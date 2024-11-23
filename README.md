@@ -3,7 +3,7 @@
 <h3 align="center">I am a 19 y.o student, programmer and music lover from Tajikistan </h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roki200)](https://github.com/anuraghazra/github-readme-statsg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roki200)](https://github.com/anuraghazra/github-readme-stats)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
