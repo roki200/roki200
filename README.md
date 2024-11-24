@@ -12,10 +12,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timakaa/timakaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timakaa/timakaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/timakaa/timakaa/output/github-snake.svg" />
-</picture>
-###
